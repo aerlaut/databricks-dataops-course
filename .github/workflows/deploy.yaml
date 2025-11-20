@@ -17,7 +17,7 @@ jobs:
         uses: databricks/setup-cli@main
 
       - name: Deploy bundle
-        run: databricks repos update /Repos/agwt@novonordisk.com/databricks-dataops-course --branch main
+        run: databricks repos update --repo-id 2980657534167963 --branch feat-knowit-brickops-part1
         env:
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
           DATABRICKS_HOST: ${{secrets.DATABRICKS_HOST }}

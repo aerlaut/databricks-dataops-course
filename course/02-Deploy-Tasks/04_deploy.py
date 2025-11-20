@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC A job coordinates pipelines. A job run is an execution of a job.
 
 # COMMAND ----------
 
@@ -60,4 +60,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC transport_taxinyc_test_revenue_agwt_featknowitbrickopspart1_514d1f89
